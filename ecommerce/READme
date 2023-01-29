@@ -4,3 +4,9 @@ SETTING UP A TESTING ENVIRONMENT
 2. pip install pytest-django
 3. pip install pytest-factoryboy -> it helps us to generate data automatically and dynamically
 4. pip install pytest-selenium
+
+To ensure quality throughout the whole software engineering lifecycle here
+
+Creating a testing ENVIRONMENT
+1. create an app called dashboard
+2. create a folder in the dashboard app
