@@ -8,5 +8,7 @@ SETTING UP A TESTING ENVIRONMENT
 To ensure quality throughout the whole software engineering lifecycle here
 
 Creating a testing ENVIRONMENT
-1. create an app called dashboard
-2. create a folder in the dashboard app
+1. create an app called dashboard inside the ecommerce app
+2. create a folder in the dashboard app and name it tests
+3. inside the tests folder to make it discoverable create a file called init.py and
+4. 
