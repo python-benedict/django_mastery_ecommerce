@@ -1,0 +1,6 @@
+SETTING UP A TESTING ENVIRONMENT
+
+1. pip install pytest
+2. pip install pytest-django
+3. pip install pytest-factoryboy -> it helps us to generate data automatically and dynamically
+4. pip install pytest-selenium
