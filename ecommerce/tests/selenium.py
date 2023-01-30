@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 #fixture: A collection of data that django knows how to import into a database. or small function we attach to test before they are runed.
-@pytest.fixture(scope='module') 
+@pytest.fixture(scope='function') 
 def chrome_browser_instance(request):
     """
     Provide a selenium webdriver instance
