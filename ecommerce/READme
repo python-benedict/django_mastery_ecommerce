@@ -12,3 +12,9 @@ Creating a testing ENVIRONMENT
 2. create a folder in the dashboard app and name it tests
 3. inside the tests folder, to make it discoverable create a file called init.py 
 4. inside the tests folder create another file called test_selenium_dashboard.py to test the selinium 
+
+CREATING A CONFIGURATION file
+1. create a pytest.ini file at where the manage.py file is located
+2. Do your customisation in that file called pytest.ini file
+Example: 1. your settings CONFIGURATION
+         2. 
