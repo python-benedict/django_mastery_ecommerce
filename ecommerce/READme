@@ -17,4 +17,7 @@ CREATING A CONFIGURATION file
 1. create a pytest.ini file at where the manage.py file is located
 2. Do your customisation in that file called pytest.ini file
 Example: 1. your settings CONFIGURATION
-         2. 
+
+CONTINUINIG
+1.Create a conftest.py file at the base of the repository ( where the manage.py file is located)
+
